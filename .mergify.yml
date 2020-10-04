@@ -1,0 +1,8 @@
+pull_request_rules:
+  - name: automatic merge on CircleCI success if only data.json is changed
+    conditions:
+      - files=Contributors.md
+      - "#files=1"
+    actions:
+      merge:
+        method: merge
