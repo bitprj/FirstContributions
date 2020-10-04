@@ -1,4 +1,4 @@
-# FirstContributions
+# Make your first open source contribution
 🚀✨ Learn how to open source projects
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
