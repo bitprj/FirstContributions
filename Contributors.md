@@ -1,2 +1,2 @@
 # Contributors
-- [Daniel Kim 🇰🇷](twitter.com/journeyer_)
+- [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
