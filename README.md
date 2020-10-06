@@ -60,6 +60,10 @@ git checkout -b add-daniel-kim
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
+*************For Consideration****************
+Might want to consider revising the instruction that prompts new contributors to add their names to the middle of the list. It caused my addition to have a merge conflict. Might be better to advise them to add their names to the end of the list instead?
+**********************************************
+
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
