@@ -6,7 +6,7 @@
 - [Kyle Begovich 🇺🇸](https://kylebegovich.github.io)
 - [Sam Kenpachi](https://samkenpachi011.github.io)
 Jessica B
-
+- [Steven Wang](https://github.com/FlyingDutchman1007)
 
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
 - [Julia Nguyen]
