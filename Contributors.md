@@ -12,7 +12,7 @@
 - [Julia Nguyen]
 - [Shayan Riyaz :pakistan:](https://www.linkedin.com/in/shayan-riyaz/)
 - [Bryan Wong]
-- [Christian Haller 🇺🇸] (https://github.com/ChristianHallerX)
+- [Christian Haller 🇺🇸](https://github.com/ChristianHallerX)
 - [James Rainbolt] (https://www.linkedin.com/in/james-rainbolt/)
 
 - [My Name 😁](https://github.com/bitprj/FirstContributions)
