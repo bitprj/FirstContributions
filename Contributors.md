@@ -4,7 +4,7 @@
 - [Julia Ma]
 - [Saphirah Pociluyko](https://github.com/sjpcp5)
 - [Kyle Begovich 🇺🇸](https://kylebegovich.github.io)
-
+- [Sam Kenpachi](https://samkenpachi011.github.io)
 Jessica B
 
 
