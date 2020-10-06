@@ -11,3 +11,4 @@ Jessica B
 - [Julia Nguyen]
 - [Shayan Riyaz :pakistan:](https://www.linkedin.com/in/shayan-riyaz/)
 - [Bryan Wong]
+- [Christian Haller 🇺🇸] (https://github.com/ChristianHallerX)
