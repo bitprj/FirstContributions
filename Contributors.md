@@ -9,6 +9,7 @@
 - [Jessica B]
 - [Steven Wang](https://github.com/FlyingDutchman1007)
 - [John Poulos]
+- [sunil jain]
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
   [Salmaan Shire](https://github.com/bitprj/FirstContributions)
 - [Julia Nguyen]
