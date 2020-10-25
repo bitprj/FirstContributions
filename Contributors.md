@@ -1,4 +1,5 @@
 # Contributors
+
 - [Beau Hayes-Pollard](https://twitter.com/bahburs)
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
 - [Julia Ma]
@@ -11,11 +12,4 @@
 - [John Poulos]
 - [sunil jain]
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
-  [Salmaan Shire](https://github.com/bitprj/FirstContributions)
-- [Julia Nguyen]
-- [Shayan Riyaz :pakistan:](https://www.linkedin.com/in/shayan-riyaz/)
-- [Bryan Wong]
-- [Christian Haller 🇺🇸](https://github.com/ChristianHallerX)
-- [James Rainbolt] (https://www.linkedin.com/in/james-rainbolt/)
-
-  [Nevil Sutaria](https://github.com/bitprj/FirstContributions)
+- [Nick Trujillo 😓] (https://twitter.com/nickkrich)
