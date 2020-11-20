@@ -11,5 +11,6 @@
 - [Steven Wang](https://github.com/FlyingDutchman1007)
 - [John Poulos]
 - [sunil jain]
+  [Okeagu Onyekachi](https://github.com/aeronye)
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
 - [Nick Trujillo 😓] (https://twitter.com/nickkrich)
