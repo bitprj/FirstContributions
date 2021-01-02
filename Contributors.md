@@ -7,6 +7,7 @@
 - [Saphirah Pociluyko](https://github.com/sjpcp5)
 - [Kyle Begovich 🇺🇸](https://kylebegovich.github.io)
 - [Sam Kenpachi](https://samkenpachi011.github.io)
+- [Adis Tucakovic](https://twitter.com/MinyMeep1)
 - [Jessica B]
 - [Steven Wang](https://github.com/FlyingDutchman1007)
 - [John Poulos]
