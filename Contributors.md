@@ -9,10 +9,12 @@
 - [Sam Kenpachi](https://samkenpachi011.github.io)
 - [Adis Tucakovic](https://twitter.com/MinyMeep1)
 - [Jessica B]
+- [Ling Gladys]
 - [SwatBros]
 - [Steven Wang](https://github.com/FlyingDutchman1007)
 - [John Poulos]
 - [sunil jain]
+- [Gladys]
   [Okeagu Onyekachi](https://github.com/aeronye)
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
 - [Nick Trujillo 😓] (https://twitter.com/nickkrich)
