@@ -19,3 +19,4 @@
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
 - [Nick Trujillo 😓] (https://twitter.com/nickkrich)
 - [Vaishali Gupta](https://github.com/vaishaligupta2000)
+- [Javier Velasco Galicia](https://github.com/JavierVelascoGalicia)
