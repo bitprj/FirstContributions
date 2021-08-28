@@ -15,6 +15,7 @@
 - [John Poulos]
 - [sunil jain]
 - [Gladys]
+- [Wizard425](https://github.com/wizard425)
   [Okeagu Onyekachi](https://github.com/aeronye)
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
 - [Nick Trujillo 😓] (https://twitter.com/nickkrich)
