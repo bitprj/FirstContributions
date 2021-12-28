@@ -21,3 +21,4 @@
 - [Nick Trujillo 😓] (https://twitter.com/nickkrich)
 - [Vaishali Gupta](https://github.com/vaishaligupta2000)
 -[Bhavesh Anandpara](https://github.com/BhaveshAnandpara)
+- [Dhruv Patil](https://github.com/larsonjack05)
