@@ -15,6 +15,7 @@
 - [John Poulos]
 - [sunil jain]
 - [Juan Camilo Ortiz 🇨🇴](https://twitter.com/juancortizgonz)
+- [Richard Gwati](https://github.com/ricahardHaggioGwati)
 - [Rajdeep Das](https://github.com/Rajspeaks)
 - [Gladys]
 - [Wizard425](https://github.com/wizard425)
