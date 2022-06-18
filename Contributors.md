@@ -26,3 +26,4 @@
 - [Vaishali Gupta](https://github.com/vaishaligupta2000)
 -[Bhavesh Anandpara](https://github.com/BhaveshAnandpara)
 - [Dhruv Patil](https://github.com/larsonjack05)
+- [Diego Muñoz 🇲🇽](https://github.com/Diego-EM)
