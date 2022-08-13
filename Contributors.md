@@ -19,6 +19,7 @@
 - [Richard Gwati](https://github.com/ricahardHaggioGwati)
 - [Rajdeep Das](https://github.com/Rajspeaks)
 - [Gladys]
+- [Ashish yadav](https://github.com/yadav-g)
 - [Wizard425](https://github.com/wizard425)
   [Okeagu Onyekachi](https://github.com/aeronye)
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
