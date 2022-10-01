@@ -1,6 +1,7 @@
 # Contributors
 
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
+- [Aditya Singh](https://github.com/adisk01)
 - [Beau Hayes-Pollard](https://twitter.com/bahburs)
 - [Paritosh Singh](https://twitter.com/proparitosh1609)
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
