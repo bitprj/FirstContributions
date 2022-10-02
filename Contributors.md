@@ -17,6 +17,7 @@
 - [Steven Wang](https://github.com/FlyingDutchman1007)
 - [John Poulos]
 - [sunil jain]
+- [Aman Kumar Verma](https://github.com/AmanKumarVerma11)
 - [Juan Camilo Ortiz 🇨🇴](https://twitter.com/juancortizgonz)
 - [Evander Inacio](https://github.com/EvanderInacio)
 - [Richard Gwati](https://github.com/ricahardHaggioGwati)
