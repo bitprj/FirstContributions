@@ -1,5 +1,5 @@
 # Contributors
-
+- [Evander Siregar](https://github.com/egocider)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
 - [Aditya Singh](https://github.com/adisk01)
 - [Beau Hayes-Pollard](https://twitter.com/bahburs)
