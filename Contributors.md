@@ -34,3 +34,5 @@
 - [Diego Muñoz 🇲🇽](https://github.com/Diego-EM)
 - [Vishal Chauhan](https://github.com/vish-han)
 -[Shobhnik](https://github.com/Shobhnik13)
+- [Umesh Badsara](https://www.instagram.com/badsara_umesh/)
+
