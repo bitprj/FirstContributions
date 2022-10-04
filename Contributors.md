@@ -33,6 +33,7 @@
 - [Dhruv Patil](https://github.com/larsonjack05)
 - [Diego Muñoz 🇲🇽](https://github.com/Diego-EM)
 - [Vishal Chauhan](https://github.com/vish-han)
+- [Sugyani Manjari Dash](https://github.com/Sugyani31)
 - [Shobhnik](https://github.com/Shobhnik13)
 - [Vagdevi Surarapu](https://github.com/Vagdevi007)
 - [Aman kayat](https://github.com/amankayat)
