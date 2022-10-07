@@ -40,3 +40,4 @@
 - [Umesh Badsara](https://www.instagram.com/badsara_umesh/)
 - [Bagus Yumna](https://github.com/bagusyumna)
 - [Aniket Sinha](https://github.com/aniketsinha2002)
+- [Nishant Kumar Singh](https://github.com/Nishant2209)
