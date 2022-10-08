@@ -42,3 +42,4 @@
 - [Aniket Sinha](https://github.com/aniketsinha2002)
 - [Nishant Kumar Singh](https://github.com/Nishant2209)
 - [Sharan Panwar](https://github.com/SharanPanwar)
+- [Siddharthsinh Bihola](https://github.com/SiddharthBihola)
