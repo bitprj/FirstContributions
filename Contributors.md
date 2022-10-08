@@ -43,3 +43,5 @@
 - [Nishant Kumar Singh](https://github.com/Nishant2209)
 - [Sharan Panwar](https://github.com/SharanPanwar)
 - [Abhinav Kumar](https://github.com/Aviii10)
+- [Siddharthsinh Bihola](https://github.com/SiddharthBihola)
+
