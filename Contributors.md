@@ -47,3 +47,4 @@
 - [Abhinav Kumar](https://github.com/Aviii10)
 - [Siddharthsinh Bihola](https://github.com/SiddharthBihola)
 - [Surendra Yadav](https://github.com/skyadav029)
+- [Mayank Badsara](https://github.com/BadsaraMayank)
