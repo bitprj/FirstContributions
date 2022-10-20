@@ -53,3 +53,4 @@
 - [Ritik Sethi](https://github.com/ritiksethi21)
 - [Ambar Kansal](https://github.com/Ambarcode)
 - [Mohd Adnan](https://github.com/mohdadnan786)
+- [Loved Anu](https://github.com/lovedanu90)
