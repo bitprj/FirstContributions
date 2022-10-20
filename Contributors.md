@@ -55,3 +55,4 @@
 - [Mohd Adnan](https://github.com/mohdadnan786)
 - [Loved Anu](https://github.com/lovedanu90)
 - [Manali Mahajan](https://github.com/ManaliMhjn)
+- [Laurenziello](https://github.com/laurenziello)
