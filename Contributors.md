@@ -57,4 +57,5 @@
 - [Manali Mahajan](https://github.com/ManaliMhjn)
 - [Laurenziello](https://github.com/laurenziello)
 - [squirrel](https://github.com/squirrel129)
+- [amar kaushik](https://github.com/amarcode1)
 
