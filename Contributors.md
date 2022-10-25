@@ -58,6 +58,6 @@
 - [Laurenziello](https://github.com/laurenziello)
 - [squirrel](https://github.com/squirrel129)
 - [Amar kaushik](https://github.com/amarcode1)
-- [aditya chopra](https://github.com/adityacodechopra)
+- [Aditya chopra](https://github.com/adityacodechopra)
 
 
