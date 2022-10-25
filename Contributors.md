@@ -56,3 +56,4 @@
 - [Loved Anu](https://github.com/lovedanu90)
 - [Manali Mahajan](https://github.com/ManaliMhjn)
 - [Laurenziello](https://github.com/laurenziello)
+- - [squirrel129](https://github.com/squirrel129)
