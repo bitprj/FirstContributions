@@ -1,6 +1,5 @@
 # Contributors
 # A great thanks to all the contributors for contributing in my project
-# Please do mention your names
 - [Mukul Yadav](https://www.linkedin.com/in/mukulji/)
 - [Arya Sharma](https://github.com/Aryasharma001)
 - [Evander Siregar](https://github.com/egocider)
