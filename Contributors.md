@@ -53,3 +53,4 @@
 - [Amar kaushik](https://github.com/amarcode1)
 - [Charu Goyal](https://github.com/charugoyal1508)
 - [Kuldeep Goyal](https://github.com/colddeep)
+- [Ritik Sethi](https://ritiksethi21)
