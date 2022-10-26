@@ -19,7 +19,6 @@
 - [Juan Camilo Ortiz 🇨🇴](https://twitter.com/juancortizgonz)
 - [Evander Inacio](https://github.com/EvanderInacio)
 - [Richard Gwati](https://github.com/ricahardHaggioGwati)
-- [Rajdeep Das](https://github.com/Rajspeaks)
 - [Ashish yadav](https://github.com/yadav-g)
 - [Wizard425](https://github.com/wizard425)
   [Okeagu Onyekachi](https://github.com/aeronye)
@@ -31,7 +30,7 @@
 - [Diego Muñoz 🇲🇽](https://github.com/Diego-EM)
 - [Vishal Chauhan](https://github.com/vish-han)
 - [Sugyani Manjari Dash](https://github.com/Sugyani31)
-- 
+- [Kuldepe](https://github.com/kuldeep)
 - [Vagdevi Surarapu](https://github.com/Vagdevi007)
 - [Aman kayat](https://github.com/amankayat)
 - [Umesh Badsara](https://www.instagram.com/badsara_umesh/)
