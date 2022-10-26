@@ -16,6 +16,7 @@
 - [Adis Tucakovic](https://twitter.com/MinyMeep1)
 - Jessica B
 - Ling Gladys
+- Ritik
 - SwatBros
 - [Steven Wang](https://github.com/FlyingDutchman1007)
 - John Poulos
