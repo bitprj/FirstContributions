@@ -1,5 +1,6 @@
 # Contributors
 # A great thanks to all the contributors for contributing in my project
+# Please do mention your names
 - [Mukul Yadav](https://www.linkedin.com/in/mukulji/)
 - [Arya Sharma](https://github.com/Aryasharma001)
 - [Evander Siregar](https://github.com/egocider)
@@ -52,5 +53,5 @@
 - [squirrel](https://github.com/squirrel129)
 - [Amar kaushik](https://github.com/amarcode1)
 - [Charu Goyal](https://github.com/charugoyal1508)
-- [Ritik Sethi](https://github.com/ritiksethi21) 
 - [Kuldeep Goyal](https://github.com/colddeep)
+- [Ritik Sethi](https://ritiksethi21)
