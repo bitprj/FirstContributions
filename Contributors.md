@@ -53,5 +53,6 @@
 - [Amar kaushik](https://github.com/amarcode1)
 - [Aditya Chopra](https://github.com/adityacodechopra)
 - [Ujjawal Agrawal](https://github.com/Ujjawal179)
+- [Charu Goyal]
 
 
