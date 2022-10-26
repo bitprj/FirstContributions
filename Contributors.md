@@ -51,7 +51,5 @@
 - [Laurenziello](https://github.com/laurenziello)
 - [squirrel](https://github.com/squirrel129)
 - [Amar kaushik](https://github.com/amarcode1)
-- [Aditya Chopra](https://github.com/adityacodechopra)
 - [Ujjawal Agrawl](https://github.com/Ujjawal179)
 - [Charu Goyal](https://github.com/charugoyal1508)
-- [Kuldeep]
