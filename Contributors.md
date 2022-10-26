@@ -52,5 +52,5 @@
 - [squirrel](https://github.com/squirrel129)
 - [Amar kaushik](https://github.com/amarcode1)
 - [Charu Goyal](https://github.com/charugoyal1508)
+- [Ritik Sethi](https://github.com/ritiksethi21) 
 - [Kuldeep Goyal](https://github.com/colddeep)
-- [Ritik Sethi](https://github.com/ritiksethi21)
