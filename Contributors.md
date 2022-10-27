@@ -51,3 +51,4 @@
 - [Amar kaushik](https://github.com/amarcode1)
 - [Charu Goyal](https://github.com/charugoyal1508)
 - [Ritik Sethi](https://github.com/ritiksethi21)
+- [Teja Sai](https://github.com/TejaSaii)
