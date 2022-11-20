@@ -58,4 +58,5 @@
 - [Rajeev Kumar](https://github.com/rajeev35)
 - [Mohd Adnan](https://github.com/BlackTimber0)
 - [Samprati Vyawahare](https://github.com/Sampratii)
+- [Khalid Ibrahim](https://github.com/khalid-212)
 - [Kenenisa alemayehu](https://github.com/kenenisa)
