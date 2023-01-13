@@ -60,4 +60,5 @@
 - [Mohd Adnan](https://github.com/BlackTimber0)
 - [Samprati Vyawahare](https://github.com/Sampratii)
 - [Khalid Ibrahim](https://github.com/khalid-212)
+- [Hamdi Vazim](https://github.com/hamdivazim)
 - [Kenenisa alemayehu](https://github.com/kenenisa)
