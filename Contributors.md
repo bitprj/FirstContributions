@@ -12,6 +12,7 @@
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
 - [Yuzhe Wang](https://www.linkedin.com/in/yuzhe-wang-4553801b1/)
 - [Saphirah Pociluyko](https://github.com/sjpcp5)
+-[Sagar Sharma](https://twitter.com/SagarSharma2809)
 - [Kyle Begovich 🇺🇸](https://kylebegovich.github.io)
 - [Sam Kenpachi](https://samkenpachi011.github.io)
 - [Adis Tucakovic](https://twitter.com/MinyMeep1)
