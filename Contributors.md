@@ -9,6 +9,7 @@
 - [Beau Hayes-Pollard](https://twitter.com/bahburs)
 - [Paritosh Singh](https://twitter.com/proparitosh1609)
 -[Hayat Tofik]
+- [Nikola Cerovina](https://github.com/cerovina)
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
 - [Yuzhe Wang](https://www.linkedin.com/in/yuzhe-wang-4553801b1/)
 - [Saphirah Pociluyko](https://github.com/sjpcp5)
