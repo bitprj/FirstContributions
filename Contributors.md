@@ -21,6 +21,7 @@
 - [Steven Wang](https://github.com/FlyingDutchman1007)
 - [Aman Kumar Verma](https://github.com/AmanKumarVerma11)
 - [Juan Camilo Ortiz 🇨🇴](https://twitter.com/juancortizgonz)
+- [Disha vig](https://github.com/vigdisha)
 - [Evander Inacio](https://github.com/EvanderInacio)
 - [Richard Gwati](https://github.com/ricahardHaggioGwati)
 - [Ashish yadav](https://github.com/yadav-g)
