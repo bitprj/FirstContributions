@@ -69,3 +69,4 @@
 - [Aina Agnihotri](https://github.com/ainaagnihotri)
 - [VortexVanguard](https://github.com/VortexVanguard)
 - [Bhanu Kirupakaran](https://github.com/Bhanu232)
+- [Xander Clemens](https://github.com/XanderRubio)
