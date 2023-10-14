@@ -17,6 +17,7 @@
 -[Sagar Sharma](https://twitter.com/SagarSharma2809)
 - [Kyle Begovich 🇺🇸](https://kylebegovich.github.io)
 - [Sam Kenpachi](https://samkenpachi011.github.io)
+- [Aishvarya B](www.linkedin.com/in/aishvarya-b-29144328a)
 - [Adis Tucakovic](https://twitter.com/MinyMeep1)
 - [Charletta Towns](https://github.com/sharkiet28)
 - [Barlapally Krishna Reddy](https://twitter.com/barlapallykris1)
