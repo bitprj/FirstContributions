@@ -7,6 +7,7 @@
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
 - [S PADMANABAN](https://github.com/S-PADMANABAN-2001)
 - [Aditya Singh](https://github.com/adisk01)
+- [Ajeet Raj](https://github.com/ajeetraj11)
 - [Beau Hayes-Pollard](https://twitter.com/bahburs)
 - [Paritosh Singh](https://twitter.com/proparitosh1609)
 -[Hayat Tofik]
