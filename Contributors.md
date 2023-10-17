@@ -10,13 +10,13 @@
 - [Ajeet Raj](https://github.com/ajeetraj11)
 - [Beau Hayes-Pollard](https://twitter.com/bahburs)
 - [Paritosh Singh](https://twitter.com/proparitosh1609)
--[Hayat Tofik]
+- [Hayat Tofik]
 - [Nikola Cerovina](https://github.com/cerovina)
 - [Vikas Gadge](https://github.com/vikasgadge28)
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
 - [Yuzhe Wang](https://www.linkedin.com/in/yuzhe-wang-4553801b1/)
 - [Saphirah Pociluyko](https://github.com/sjpcp5)
--[Sagar Sharma](https://twitter.com/SagarSharma2809)
+- [Sagar Sharma](https://twitter.com/SagarSharma2809)
 - [Kyle Begovich 🇺🇸](https://kylebegovich.github.io)
 - [Sam Kenpachi](https://samkenpachi011.github.io)
 - [Aishvarya B](www.linkedin.com/in/aishvarya-b-29144328a)
@@ -55,6 +55,7 @@
 - [Surendra Yadav](https://github.com/skyadav029)
 - [Mayank Badsara](https://github.com/BadsaraMayank)
 - [Megha Agarwal](https://github.com/agmegha295)
+- [Ujjwal Gupta](https://github.com/masterujjval)
 - [Ambar Kansal](https://github.com/Ambarcode)
 - [Mohd Adnan](https://github.com/mohdadnan786)
 - [Loved Anu](https://github.com/lovedanu90)
