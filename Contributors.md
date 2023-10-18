@@ -3,6 +3,7 @@
 - [Mukul Yadav](https://www.linkedin.com/in/mukulji/)
 - [Hari sudan](https://twitter.com/harisudan96)
 - [Arya Sharma](https://github.com/Aryasharma001)
+- [Devanshu Masodker](https://github.com/Devanshumasodker)
 - [Evander Siregar](https://github.com/egocider)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
 - [S PADMANABAN](https://github.com/S-PADMANABAN-2001)
