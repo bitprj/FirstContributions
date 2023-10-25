@@ -24,6 +24,7 @@
 - [Aishvarya B](www.linkedin.com/in/aishvarya-b-29144328a)
 - [Adis Tucakovic](https://twitter.com/MinyMeep1)
 - [Charletta Towns](https://github.com/sharkiet28)
+- [Pratik Kashyap](https://github.com/ipratiik)
 - [Barlapally Krishna Reddy](https://twitter.com/barlapallykris1)
 - [Steven Wang](https://github.com/FlyingDutchman1007)
 - [Aman Kumar Verma](https://github.com/AmanKumarVerma11)
