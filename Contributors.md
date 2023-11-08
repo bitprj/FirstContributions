@@ -69,6 +69,7 @@
 - [Ritik Sethi](https://github.com/ritiksethi21)
 - [Teja Sai](https://github.com/TejaSaii)
 - [Rajeev Kumar](https://github.com/rajeev35)
+- [Haohua Mai](https://github.com/HowardMak)
 - [Mohd Adnan](https://github.com/BlackTimber0)
 - [Samprati Vyawahare](https://github.com/Sampratii)
 - [Khalid Ibrahim](https://github.com/khalid-212)
