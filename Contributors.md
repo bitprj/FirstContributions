@@ -4,6 +4,7 @@
 - [Hari sudan](https://twitter.com/harisudan96)
 - [Arya Sharma](https://github.com/Aryasharma001)
 - [Devanshu Masodker](https://github.com/Devanshumasodker)
+- [Arya Kulkarni](https://github.com/aryakulkarni25)
 - [Evander Siregar](https://github.com/egocider)
 - [Harsh Suhane](https://github.com/HARSHSUHANE17)
 - [S PADMANABAN](https://github.com/S-PADMANABAN-2001)
