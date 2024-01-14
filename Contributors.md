@@ -81,4 +81,5 @@
 - [VortexVanguard](https://github.com/VortexVanguard)
 - [Richard Callaby](https://www.richardcallaby.dev)
 - [Bhanu Kirupakaran](https://github.com/Bhanu232)
+- [Amulya Jain](https://github.com/AmulyaJain2004)
 - [Xander Clemens](https://github.com/XanderRubio)
