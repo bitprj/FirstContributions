@@ -62,6 +62,7 @@
 - [Megha Agarwal](https://github.com/agmegha295)
 - [Ambar Kansal](https://github.com/Ambarcode)
 - [Mohd Adnan](https://github.com/mohdadnan786)
+- [Zerlina-ysl](https://github.com/Zerlina-ysl)
 - [Loved Anu](https://github.com/lovedanu90)
 - [Manali Mahajan](https://github.com/ManaliMhjn)
 - [Laurenziello](https://github.com/laurenziello)
