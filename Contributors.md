@@ -44,6 +44,7 @@
 - [Bhavesh Anandpara](https://github.com/BhaveshAnandpara)
 - [Dhruv Patil](https://github.com/larsonjack05)
 - [Diego Muñoz 🇲🇽](https://github.com/Diego-EM)
+- [Saurav Bisht](https://github.com/akaBisht)
 - [Vishal Chauhan](https://github.com/vish-han)
 - [Sugyani Manjari Dash](https://github.com/Sugyani31)
 - [Kuldepe](https://github.com/kuldeep)
