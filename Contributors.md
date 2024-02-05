@@ -60,6 +60,7 @@
 - [Abhinav Kumar](https://github.com/Aviii10)
 - [Siddharthsinh Bihola](https://github.com/SiddharthBihola)
 - [Surendra Yadav](https://github.com/skyadav029)
+- [Lokesh Gonthina](https://github.com/lokeshgonthina)
 - [Mayank Badsara](https://github.com/BadsaraMayank)
 - [Megha Agarwal](https://github.com/agmegha295)
 - [Ambar Kansal](https://github.com/Ambarcode)
