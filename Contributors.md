@@ -1,6 +1,7 @@
 # Contributors
 # A great thanks to all the contributors for contributing in my project
 - [Mukul Yadav](https://www.linkedin.com/in/mukulji/)
+-[Aditya Gupta] (https://github.com/coderAditya12)
 - [Hari sudan](https://twitter.com/harisudan96)
 - [Arya Sharma](https://github.com/Aryasharma001)
 - [Devanshu Masodker](https://github.com/Devanshumasodker)
