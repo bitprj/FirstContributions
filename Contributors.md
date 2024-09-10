@@ -13,7 +13,7 @@
 - [Ajeet Raj](https://github.com/ajeetraj11)
 - [Beau Hayes-Pollard](https://twitter.com/bahburs)
 - [Paritosh Singh](https://twitter.com/proparitosh1609)
--[Hayat Tofik]
+-[Hayat Tofik](Harsh)
 - [Nikola Cerovina](https://github.com/cerovina)
 - [Vikas Gadge](https://github.com/vikasgadge28)
 - [Zachary Konings] (https://github.com/zkonings)
