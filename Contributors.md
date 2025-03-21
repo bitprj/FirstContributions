@@ -21,6 +21,7 @@
 - [Zachary Konings](https://github.com/zkonings)
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
 - [Usman haider](https://github.com/osman-haider)
+- [Aman Tugnawat](https://aman-tugnawat.github.io)
 - [Yuzhe Wang](https://www.linkedin.com/in/yuzhe-wang-4553801b1/)
 - [Saphirah Pociluyko](https://github.com/sjpcp5)
 - [Sagar Sharma](https://twitter.com/SagarSharma2809)
