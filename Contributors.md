@@ -92,6 +92,7 @@
 * [Aina Agnihotri](https://github.com/ainaagnihotri)
 * [VortexVanguard](https://github.com/VortexVanguard)
 * [Richard Callaby](https://www.richardcallaby.dev)
+* [JenilMakhansa](https://github.com/Jenil0305/)
 * [Bhanu Kirupakaran](https://github.com/Bhanu232)
 * [Amulya Jain](https://github.com/AmulyaJain2004)
 * [ashish0kumar](https://github.com/ashish0kumar)
