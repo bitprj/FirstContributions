@@ -122,5 +122,40 @@ After you fork this repository, the original project may receive new updates. To
 
 > ⚠️ Note: Sometimes the base and head repositories appear **reversed** in the Compare dropdown by default. Always make sure the **original repository is the base** and **your fork is the head** before creating the Pull Request.
 
-This helps you keep your fork up to date with the latest changes so you can continue contributing without conflicts.
+### Option 3: Sync Using the Command Line
+
+To update your fork using the command line,follow these steps:
+
+1. Check existing remotes
+```bash
+git remote -v
+```
+2. Add the original repo as upstream (do this only once)
+```
+git remote add upstream https://github.com/ORIGINAL_OWNER/REPO_NAME.git
+```
+3. Fetch latest changes from original repo
+```
+git fetch upstream
+```
+4. Switch to main branch (or master)
+```
+git checkout main
+```
+5. Merge original repo changes into your branch
+```
+git merge upstream/main
+```
+
+ 6. Push updated code to your fork on GitHub
+```
+git push origin main
+```
+
+🔁 If your default branch is `master` instead of `main`, replace:
+
+`main` → `master`  
+`upstream/main` → `upstream/master`
+
+This will keep your fork in sync with the original repository so you can continue contributing without conflicts.
 
