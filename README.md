@@ -99,3 +99,28 @@ Now submit the pull request.
 <img style="float: right;" src="images/compare.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+
+## Keeping Your Fork Up to Date with the Original Repository
+
+After you fork this repository, the original project may receive new updates. To keep your fork updated with those changes, follow these steps:
+
+### Option 1: Sync Using GitHub (Without Command Line)
+
+1. Go to your forked repository on GitHub.
+2. Click on the **"Sync fork"** button (if available).
+3. Click **"Update branch"** to pull the latest changes from the original repository.
+
+### Option 2: Sync Using the Compare Feature
+
+1. Go to your forked repository on GitHub.
+2. Click on **"Compare"**.
+3. Make sure:
+   - **Base repository** = Original repository  
+   - **Head repository** = Your fork  
+4. Create a Pull Request from the original repo to your fork.
+5. Merge that Pull Request into your fork to update it.
+
+> ⚠️ Note: Sometimes the base and head repositories appear **reversed** in the Compare dropdown by default. Always make sure the **original repository is the base** and **your fork is the head** before creating the Pull Request.
+
+This helps you keep your fork up to date with the latest changes so you can continue contributing without conflicts.
+
