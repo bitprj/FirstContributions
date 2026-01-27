@@ -100,4 +100,5 @@
 * [ashish0kumar](https://github.com/ashish0kumar)
 * [Xander Clemens](https://github.com/XanderRubio)
 * [zukizukizuki](https://github.com/zukizukizuki)
+* [Naman Dangi](https://github.com/naman23j)
 * [Tanishka Sonawane](https://github.com/tanishka-sonawane)
