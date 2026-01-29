@@ -107,6 +107,7 @@
 * [Barath B](https://github.com/barathb2007)
 * [Boobesh B](https://github.com/hiboobesh-collab)
 * [Gokulram S](https://github.com/Gokulram7)
+* [Jagamiya C](https://github.com/CJagamiya)
 
 
 
