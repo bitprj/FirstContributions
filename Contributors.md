@@ -51,6 +51,7 @@
   [Okeagu Onyekachi](https://github.com/aeronye)
 * [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
 * [Nick Trujillo 😓](https://twitter.com/nickkrich)
+* [Emilien Olivarez](https://github.com/eolivarez2008)
 * [Vaishali Gupta](https://github.com/vaishaligupta2000)
 * [Bhavesh Anandpara](https://github.com/BhaveshAnandpara)
 * [Dhruv Patil](https://github.com/larsonjack05)
