@@ -23,6 +23,7 @@
 - [Nikola Cerovina](https://github.com/cerovina)
 - [Vikas Gadge](https://github.com/vikasgadge28)
 - [Zachary Konings](https://github.com/zkonings)
+  [Akshay Appala](https://github.com/akshay-appala)
 - [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
 - [Usman haider](https://github.com/osman-haider)
 - [Aman Tugnawat](https://aman-tugnawat.github.io)
