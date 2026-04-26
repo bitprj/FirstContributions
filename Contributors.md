@@ -58,6 +58,7 @@
 - [Emilien Olivarez](https://github.com/eolivarez2008)
 - [Vaishali Gupta](https://github.com/vaishaligupta2000)
 - [Bhavesh Anandpara](https://github.com/BhaveshAnandpara)
+- [Joever Morallos](https://github.com/jmorallos)
 - [Dhruv Patil](https://github.com/larsonjack05)
 - [Diego Muñoz 🇲🇽](https://github.com/Diego-EM)
 - [Saurav Bisht](https://github.com/akaBisht)
