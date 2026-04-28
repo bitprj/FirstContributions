@@ -4,6 +4,7 @@
 
 - [Mukul Yadav](https://www.linkedin.com/in/mukulji/)
 - [**Dhruv Shetty**](https://github.com/DhruvShetty22/)
+- [Manish Kumar Sinha](https://github.com/manishXcoder/)
 - [Aditya Gupta](https://github.com/coderAditya12)
 - [Hari sudan](https://twitter.com/harisudan96)
 - [Arya Sharma](https://github.com/Aryasharma001)
