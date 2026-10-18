@@ -26,6 +26,7 @@
 * [Zachary Konings](https://github.com/zkonings)
 * [Dairon Rodriguez](https://github.com/daironirdp)
 [Akshay Appala](https://github.com/akshay-appala)
+* Anuj Sharma
 * [Daniel Kim 🇰🇷](https://twitter.com/journeyer_)
 * [Wanderer](https://github.com/wanderer00a1)
 * [Usman haider](https://github.com/osman-haider)
@@ -135,11 +136,11 @@
 * [Khairil](https://github.com/kaizeenn)
 * [Uzma](https://github.com/Rumixyz)
 * Vladyslav\_Vytrykush
-* [Ahmed Chmourk (Data Science & AI)](https://github.com/ahmedchmourk)
-- [rxt1k](https://github.com/rxt1k)
-
+* [Ahmed Chmourk (Data Science \& AI)](https://github.com/ahmedchmourk)
+* [rxt1k](https://github.com/rxt1k)
 * [sisiphamus](https://github.com/sisiphamus)
--[HarikaPinapati]-(https://github.com/Harika-pinapati)
+-\[HarikaPinapati]-(https://github.com/Harika-pinapati)
 * [Selene Qiu](https://github.com/2976906987-coder)
 * [Lilithlover13](https://github.com/Lilithlover13)
-- [dharshini](https://github.com/d72991412-cmyk)  
+* [dharshini](https://github.com/d72991412-cmyk)
+
