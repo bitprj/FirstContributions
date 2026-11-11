@@ -9,6 +9,7 @@
 * [Hari sudan](https://twitter.com/harisudan96)
 * [Arya Sharma](https://github.com/Aryasharma001)
 * [Devanshu Masodker](https://github.com/Devanshumasodker)
+* [Rajeswari Sunchu](https://github.com/rajeswari725)
 * [Tino Mhedziso](https://tinotenda-mhedziso.pages.dev/)
 * [Arya Kulkarni](https://github.com/aryakulkarni25)
 * [Evander Siregar](https://github.com/egocider)
